@@ -160,4 +160,4 @@ Feel free to fork this repository, submit pull requests, and contribute to the d
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-**Enjoy making user-friendly and validated forms with Jetpack Compose! 🚀**
+**Enjoy making user-friendly & validated forms with Jetpack Compose! 🚀**
