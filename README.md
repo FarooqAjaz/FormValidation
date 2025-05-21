@@ -153,9 +153,6 @@ fun ValidateTextField(
 }
 ```
 
-## Demo 💻
-You can see a demo of this library by visiting the [Demo Project](#) link.
-
 ## Contributing 🤝
 Feel free to fork this repository, submit pull requests, and contribute to the development of this library. We welcome any feedback or suggestions that improve the usability and functionality of the library.
 
