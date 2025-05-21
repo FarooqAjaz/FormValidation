@@ -27,7 +27,7 @@ allprojects {
 ### Step 2: Add the dependency in your app-level build.gradle
 ```gradle
 dependencies {
-    implementation 'com.quadlogixs.compose.validation:0.0.1'
+    implementation 'com.quadlogixs.compose:validation:0.0.1'
 }
 ```
 
